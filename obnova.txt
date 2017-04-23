@@ -1,3 +1,7 @@
 [obnova]
-obnova1=Pervaya obnova
-obnova2=dnjhfz
+vers=1.4 
+obnova1=Устранены некоторые баги 
+obnova2=
+obnova3=
+obnova4=
+obnova5=
