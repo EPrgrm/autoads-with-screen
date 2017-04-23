@@ -1,5 +1,5 @@
 [obnova]
-vers=1.5 
+vers=1.6
 obnova1=Устранен обидненький баг
 obnova2=
 obnova3=
