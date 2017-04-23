@@ -1,3 +1,3 @@
 [obnova]
 obnova1=Pervaya obnova
-obnova2= dnjhfz
+obnova2=dnjhfz
