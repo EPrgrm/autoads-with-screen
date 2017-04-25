@@ -1,7 +1,7 @@
 [obnova]
-vers=1.6
-obnova1=Устранен обидненький баг
-obnova2=
-obnova3=
+vers=1.7
+obnova1=Разворачивание игры, когда ваше объявление опубликуют, если она свернута
+obnova2=Скриншоты, сделанные скриптом, дополнительно сохраняются в папке Мои документы > Quattro Inc > auto-ads with screen > ahk screen
+obnova3=исправления багов
 obnova4=
 obnova5=
