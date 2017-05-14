@@ -1,2 +1,3 @@
 [main] 
 build=10
+autoup=1
