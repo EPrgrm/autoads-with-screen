@@ -1,3 +1,2 @@
 [main] 
-build=10
-autoup=1
+build=11
