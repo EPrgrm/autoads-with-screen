@@ -1,7 +1,7 @@
 [obnova]
-vers=1.10
-obnova1=Добавлено описание к командам /changeads и /autoup
-obnova2=Оптимизирован процесс для команды /autoup
-obnova3=Изменен алгоритм проверки ключа и обновления
-obnova4=
-obnova5=привет Лусас Капа.
+vers=1.11
+obnova1=ОПТИМИЗАЦИЯ
+obnova2=/autoup
+obnova3=О
+obnova4=П
+obnova5=ТИМИЗАЦИЯ
